@@ -1,1 +1,1 @@
-# git-workflow
+# How to Git Good
